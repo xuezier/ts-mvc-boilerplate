@@ -1,0 +1,9 @@
+{
+    // for mysql
+    "development: {
+        "client": "mysql",
+        "user": "your mysql user",
+        "password": "your password",
+        "database": "test_db"
+    }
+}

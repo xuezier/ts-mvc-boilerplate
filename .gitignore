@@ -1,0 +1,17 @@
+# NODE
+node_modules/
+
+package-lock.json
+yarn.lock
+
+# VSCODE
+.vscode
+
+# Dir
+app/
+
+# MAC
+.DS_Store
+
+# LOG
+log/
